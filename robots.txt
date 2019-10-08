@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://heedahjixa.penghb.com/sitemap.xml
